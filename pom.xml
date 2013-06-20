@@ -17,11 +17,7 @@
 
     <modules>
         <module>modules/core</module>
-        <module>modules/transports</module>
-        <module>modules/http</module>
-        <module>modules/soap</module>
         <module>modules/xml</module>
-        <module>modules/configuration</module>
         <module>modules/samples</module>
     </modules>
     <dependencyManagement>
